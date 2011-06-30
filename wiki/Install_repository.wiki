@@ -1,0 +1,9 @@
+#summary Popis instalace
+
+=Popis instalace=
+
+ * stáhněte si archiv repository.dmd-xbmc.googlecode.com.zip
+ * uložte na flash disk, hard disk, nebo jiné zařízení dasažitelné v XBMC
+ * spusťte XBMC a zvolte Systém - Doplňky - Instalace z archivu ZIP
+ * najděte archiv repository.dmd-xbmc.googlecode.com.zip a zvolte instalaci
+ * vyberte k instalaci požadované doplňky z Systém - Doplňky - Získat nové doplňky - DMD-Czech XBMC Repository (dmd-xbmc.googlecode.com)
